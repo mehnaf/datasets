@@ -1,0 +1,11 @@
+ProductID,Brand,Category,Quarter,UnitsSold,Revenue
+P101,Samsung,Smartphone,Q1,250,5000000
+P102,Apple,Smartphone,Q1,180,7200000
+P103,Lenovo,Laptop,Q1,120,4800000
+P104,HP,Laptop,Q2,150,6000000
+P105,Samsung,Tablet,Q2,90,1800000
+P106,Apple,Tablet,Q3,110,3300000
+P107,Dell,Laptop,Q3,140,5600000
+P108,OnePlus,Smartphone,Q4,220,4400000
+P109,HP,Printer,Q4,75,750000
+P110,Canon,Printer,Q4,60,600000
